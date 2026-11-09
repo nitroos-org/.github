@@ -9,4 +9,4 @@ Please include:
 
 We will acknowledge your report, keep you informed while we fix it, and credit you in the release notes if you wish. Fixes are released in the next NitroOS release, or sooner when the impact warrants it.
 
-NitroOS is an unofficial downstream of ReactOS. If the issue also affects upstream ReactOS, we will coordinate with the ReactOS project.
+NitroOS is an downstream of ReactOS. If the issue also affects upstream ReactOS, we will coordinate with the ReactOS project.

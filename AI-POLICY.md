@@ -41,7 +41,7 @@ NitroOS is developed with AI coding agents under the direction of a human mainta
 
 ## Our relationship to ReactOS
 
-- NitroOS is an **unofficial downstream** of ReactOS. It is not affiliated with or endorsed by the ReactOS project.
+- NitroOS is an **downstream** of ReactOS. It is not affiliated with or endorsed by the ReactOS project.
 - We track upstream ReactOS closely and keep our changes as a patch set on top of it.
 - ReactOS does not accept AI-generated contributions. We respect that: **we do not submit AI-developed changes upstream.** Our source is public under ReactOS's licences, as the GPL requires.
 

@@ -5,7 +5,7 @@
   </picture>
 </p>
 
-**Our aim: an open-source, Windows-compatible operating system.** NitroOS is built on [ReactOS](https://reactos.org), with these major enhancements. An unofficial build, not affiliated with the ReactOS project.
+**Our aim: an open-source, Windows-compatible operating system.** NitroOS is built on [ReactOS](https://reactos.org), with these major enhancements. Not affiliated with the ReactOS project.
 
 <p align="center"><a href="https://nitroos.org/img/nitro-browser.webp"><img alt="Chrome 157 running on NitroOS 2026.11-1" src="https://raw.githubusercontent.com/nitroos-org/releases/main/docs/img/nitro-browser.webp" width="640"></a></p>
 
