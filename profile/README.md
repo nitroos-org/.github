@@ -7,7 +7,7 @@
 
 **Our aim: an open-source, Windows-compatible operating system.** NitroOS is built on [ReactOS](https://reactos.org), with these major enhancements. Not affiliated with the ReactOS project.
 
-<p align="center"><a href="https://nitroos.org/img/nitro-browser.webp"><img alt="Chrome 157 running on NitroOS 2026.11-1" src="https://raw.githubusercontent.com/nitroos-org/releases/main/docs/img/nitro-browser.webp" width="640"></a></p>
+<p align="center"><a href="https://nitroos.org/img/nitro-vscode.webp"><img alt="Visual Studio Code running on NitroOS 2026.11-1" src="https://raw.githubusercontent.com/nitroos-org/releases/main/docs/img/nitro-vscode.webp" width="640"></a></p>
 
 - **Current apps:** Chrome 157, Firefox 159, VS Code 1.145 and PowerShell 7.6 run.
 - **32-bit and 64-bit side by side:** 64-bit and 32-bit Firefox at the same time.
