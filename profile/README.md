@@ -7,7 +7,7 @@
 
 **An open-source, Windows-compatible operating system, built on [ReactOS](https://reactos.org).** NitroOS adds what you need to use ReactOS every day. It is not affiliated with the ReactOS project.
 
-<p align="center"><a href="https://nitroos.org/img/nitro-vscode.webp"><img alt="Visual Studio Code running on NitroOS 2026.11-1" src="https://raw.githubusercontent.com/nitroos-org/releases/main/docs/img/nitro-vscode.webp" width="640"></a></p>
+<p align="center"><a href="https://nitroos.org/"><img alt="NitroOS: Chrome showing nitroos.org, the About NitroOS dialog and Visual Studio Code" src="https://raw.githubusercontent.com/nitroos-org/releases/main/docs/img/hero.webp?v=20261109b" width="800"></a></p>
 
 - **Current apps:** Chrome, Firefox, Edge, VS Code and PowerShell 7 install and work.
 - **32-bit and 64-bit programs together:** the 64-bit version also runs 32-bit programs, as Windows does.
